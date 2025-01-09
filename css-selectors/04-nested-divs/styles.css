@@ -1,0 +1,10 @@
+.parent {
+	background-color: aquamarine;
+	width: 60%;
+}
+
+.child {
+	background: orange;
+	width: 50%;
+	padding: 20px;
+}
