@@ -1,0 +1,10 @@
+/* h1,
+p,
+div {
+	color: red;
+} */
+
+h1,
+p {
+	color: blue;
+}
