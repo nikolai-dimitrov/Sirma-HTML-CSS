@@ -1,0 +1,8 @@
+body > div > p {
+	color: red;
+}
+
+/* Both divs have got direct paragraph child. */
+/* div > p{
+	color: red;
+} */
