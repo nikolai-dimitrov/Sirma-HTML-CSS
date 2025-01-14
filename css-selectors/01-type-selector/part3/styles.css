@@ -1,0 +1,16 @@
+h1 {
+	color: aqua;
+	text-decoration: overline;
+}
+p {
+	color: blue;
+	font-weight: bold;
+	font-size: 22px;
+	border-bottom: 1px solid blue;
+	display: inline-block;
+	padding: 0 0 5px 0;
+}
+div {
+	color: blueviolet;
+	font-size: 20px;
+}
